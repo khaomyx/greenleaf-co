@@ -27,12 +27,18 @@ It includes a landing page, product listing, shopping cart, and Redux integratio
 ## How to Run
 
 1. Clone the repository:
+```bash
 git clone https://github.com/khaomyx/greenleaf-co.git
+```
 
 2. Install dependencies:
+```bash
 npm install
+```
 
 3. Start the app:
+```bash
 npm start
+```
 
 4. Open http://localhost:3000 to view it in the browser.
