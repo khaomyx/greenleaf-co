@@ -27,7 +27,6 @@ It includes a landing page, product listing, shopping cart, and Redux integratio
 ## How to Run
 
 1. Clone the repository:
-```bash
 git clone https://github.com/<USERNAME>/<REPO>.git
 
 2. Install dependencies:
