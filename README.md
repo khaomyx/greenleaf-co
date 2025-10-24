@@ -27,7 +27,7 @@ It includes a landing page, product listing, shopping cart, and Redux integratio
 ## How to Run
 
 1. Clone the repository:
-git clone https://github.com/<USERNAME>/<REPO>.git
+git clone https://github.com/khaomyx/greenleaf-co.git
 
 2. Install dependencies:
 npm install
