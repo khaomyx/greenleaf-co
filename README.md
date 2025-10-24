@@ -22,7 +22,7 @@ It includes a landing page, product listing, shopping cart, and Redux integratio
 - React 19
 - Redux Toolkit
 - React Router DOM
-- CSS (minimal and clean)
+- CSS
 
 ## How to Run
 
